@@ -11,10 +11,10 @@ URL = "https://b12.io/apply/submission"
 
 payload = {
     "action_run_link": "https://github.com/YOUR_USERNAME/YOUR_REPO/actions/runs/YOUR_RUN_ID",
-    "email": "you@example.com",
-    "name": "Your name",
-    "repository_link": "https://github.com/YOUR_USERNAME/YOUR_REPO",
-    "resume_link": "https://your-resume-link.com",
+    "email": "ayushim100@gmail.com",
+    "name": "Ayushi Maheshwari",
+    "repository_link": "https://github.com/ayushim100/B12-Submission",
+    "resume_link": "https://drive.google.com/file/d/1CsFq-2UjR_CU1-GDarcaAG7Zoq-kOXZ7/view?usp=sharing",
     "timestamp": datetime.now(timezone.utc).isoformat(timespec="milliseconds").replace("+00:00", "Z"),
 }
 
